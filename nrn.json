@@ -1,0 +1,19 @@
+{
+  "name": "NeuroNet",
+  "symbol": "NRN",
+  "description": "The official token of the NeuroNet project \u2014 empowering decentralized neural intelligence.",
+  "image": "https://raw.githubusercontent.com/euutakashi/nrn-token/main/neuronet_logo_512.png",
+  "external_url": "https://neuronetcoin.com",
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "B1ym1VqSJBArYkNguBSK3TyzYzT2Ls32rFqZ5qEtLZq",
+        "share": 100
+      }
+    ]
+  },
+  "extensions": {
+    "twitter": "https://twitter.com/NeuronetNRN"
+  }
+}
